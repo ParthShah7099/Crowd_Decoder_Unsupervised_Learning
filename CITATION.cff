@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this project in your work, please cite it as below."
+title: "Crowd Decoder: Mall Customer Segmentation with K-Means, Hierarchical Clustering and DBSCAN"
+type: software
+authors:
+  - given-names: Parth
+    family-names: Shah
+    alias: THE PARTH SHAH
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/ParthShah7099/Crowd_Decoder_Unsupervised_Learning"
+abstract: >-
+  Segments 200 mall customers into 5 groups with K-Means, Agglomerative
+  Hierarchical Clustering and DBSCAN, then compares the three algorithms
+  with Silhouette, Davies-Bouldin and Calinski-Harabasz scores and turns
+  the segments into marketing actions.
+keywords:
+  - unsupervised-learning
+  - clustering
+  - customer-segmentation
+  - k-means
+  - hierarchical-clustering
+  - dbscan
