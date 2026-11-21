@@ -1,0 +1,10 @@
+# Crowd Decoder — Unsupervised Learning PR 1
+# Exact versions used for the final clean run of UL_PR1.ipynb (also printed in Task 7.5)
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+scipy==1.18.1
+# needed by pandas for the styled cluster profile table (Task 3.5)
+jinja2==3.1.6

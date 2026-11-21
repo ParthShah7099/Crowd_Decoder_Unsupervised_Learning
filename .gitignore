@@ -1,0 +1,75 @@
+# ─────────────────────────────────────────────────────────────
+# .gitignore — Crowd Decoder (Unsupervised Learning · PR 1)
+# THE PARTH SHAH | Red & White Skill Education
+# ─────────────────────────────────────────────────────────────
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual Environments ─────────────────────────────────────
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ── Jupyter Notebook ─────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+
+# ── Video walkthrough ────────────────────────────────────────
+# The video goes to Google Drive / YouTube (link in README) —
+# GitHub blocks files over 100 MB, so it never enters the repo
+*.mp4
+*.mov
+
+# ── macOS ────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+
+# ── Windows ──────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ── IDE / Editors ────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Environment Variables ────────────────────────────────────
+.env
+.env.local
+*.env
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+pip-log.txt
+
+# ── Distribution ─────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+
+# ── Temporary ────────────────────────────────────────────────
+*.tmp
+*.temp
+*.bak
+*.orig
