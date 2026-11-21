@@ -24,7 +24,7 @@
 
 ---
 
-**TL;DR:** Segments 200 mall customers into 5 groups the marketing team can act on, using three unsupervised algorithms — **K-Means, Agglomerative Hierarchical Clustering and DBSCAN** — then puts them head-to-head on Silhouette, Davies–Bouldin and Calinski–Harabasz scores. K-Means wins (Silhouette **0.555**), Hierarchical agrees on **196 of 200** customers, and DBSCAN exposes **14 outliers**. **Python · pandas · NumPy · Matplotlib · Seaborn · scikit-learn · SciPy.** [→ Notebook](./UL_PR1.ipynb) · [→ HTML version](./UL_PR1.html) · [→ Video walkthrough](#-video--watch-the-walkthrough)
+**TL;DR:** Segments 200 mall customers into 5 groups the marketing team can act on, using three unsupervised algorithms — **K-Means, Agglomerative Hierarchical Clustering and DBSCAN** — then puts them head-to-head on Silhouette, Davies–Bouldin and Calinski–Harabasz scores. K-Means wins (Silhouette **0.555**), Hierarchical agrees on **196 of 200** customers, and DBSCAN exposes **14 outliers**. **Python · pandas · NumPy · Matplotlib · Seaborn · scikit-learn · SciPy.** [→ Notebook](./UL_PR1.ipynb) · [→ HTML version](https://parthshah7099.github.io/Crowd_Decoder_Unsupervised_Learning/UL_PR1.html) · [→ Video walkthrough](#-video--watch-the-walkthrough)
 
 ---
 
@@ -386,7 +386,7 @@ jupyter notebook UL_PR1.ipynb
 ```
 
 **Option 3 — Just read it**  
-Open [`UL_PR1.html`](./UL_PR1.html) in any browser — every chart and output is already there.
+Read the full report online — [UL_PR1.html on GitHub Pages](https://parthshah7099.github.io/Crowd_Decoder_Unsupervised_Learning/UL_PR1.html) — every chart and output is already there, no Jupyter needed.
 
 ---
 
